@@ -1,2 +1,1 @@
-rebase creates a linear history of commits as if the commits were added at the tip of main branch.
-
+rebase changes the timestamps of commits
