@@ -1,0 +1,21 @@
+From b8d7b3afc91b4ca444fa6122be27387f17712bf2 Mon Sep 17 00:00:00 2001
+From: NPandey117 <nupurpandey1705@gmail.com>
+Date: Wed, 3 Jun 2026 00:08:27 +0530
+Subject: [PATCH 5/8] Add rebase.txt
+
+---
+ WiSH_2026/rebase.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 WiSH_2026/rebase.txt
+
+diff --git a/WiSH_2026/rebase.txt b/WiSH_2026/rebase.txt
+new file mode 100644
+index 0000000..3d310c5
+--- /dev/null
++++ b/WiSH_2026/rebase.txt
+@@ -0,0 +1,2 @@
++rebase creates a linear history of commits as if the commits were added at the tip of main branch.
++
+-- 
+2.54.0.windows.1
+

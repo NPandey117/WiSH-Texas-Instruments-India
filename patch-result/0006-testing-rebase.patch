@@ -1,0 +1,20 @@
+From 9455f1fea0a6f610b591780d29d86c046d81c3ed Mon Sep 17 00:00:00 2001
+From: NPandey117 <nupurpandey1705@gmail.com>
+Date: Wed, 3 Jun 2026 00:28:11 +0530
+Subject: [PATCH 6/8] testing rebase
+
+---
+ WiSH_2026/rebase.txt | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+diff --git a/WiSH_2026/rebase.txt b/WiSH_2026/rebase.txt
+index 3d310c5..1c4d109 100644
+--- a/WiSH_2026/rebase.txt
++++ b/WiSH_2026/rebase.txt
+@@ -1,2 +1 @@
+-rebase creates a linear history of commits as if the commits were added at the tip of main branch.
+-
++rebase changes the timestamps of commits
+-- 
+2.54.0.windows.1
+

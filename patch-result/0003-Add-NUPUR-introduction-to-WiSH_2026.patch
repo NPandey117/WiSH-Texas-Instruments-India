@@ -1,0 +1,21 @@
+From 4cbf8e6305e736195cae87fab2fdff79e998903c Mon Sep 17 00:00:00 2001
+From: NPandey117 <nupurpandey1705@gmail.com>
+Date: Tue, 2 Jun 2026 22:46:46 +0530
+Subject: [PATCH 3/8] Add NUPUR introduction to WiSH_2026
+
+---
+ WiSH_2026/introductions/nupur.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 WiSH_2026/introductions/nupur.txt
+
+diff --git a/WiSH_2026/introductions/nupur.txt b/WiSH_2026/introductions/nupur.txt
+new file mode 100644
+index 0000000..56c5f01
+--- /dev/null
++++ b/WiSH_2026/introductions/nupur.txt
+@@ -0,0 +1,2 @@
++Hey there, myself Nupur, and my email-address is nupurpandey1705@gmail.com.
++I really love learning about cool stuff especially making some projects that could have a real impact. I also love problem-solving.
+-- 
+2.54.0.windows.1
+

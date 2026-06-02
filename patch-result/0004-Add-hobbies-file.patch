@@ -1,0 +1,20 @@
+From 00fe15655a4eb189bbd78ad952e92385e3ba1dc4 Mon Sep 17 00:00:00 2001
+From: NPandey117 <nupurpandey1705@gmail.com>
+Date: Tue, 2 Jun 2026 23:21:11 +0530
+Subject: [PATCH 4/8] Add hobbies file
+
+---
+ WiSH_2026/hobbies.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 WiSH_2026/hobbies.txt
+
+diff --git a/WiSH_2026/hobbies.txt b/WiSH_2026/hobbies.txt
+new file mode 100644
+index 0000000..fcde5e5
+--- /dev/null
++++ b/WiSH_2026/hobbies.txt
+@@ -0,0 +1 @@
++I like to travel, watch psychological, crime and thriller series, play badminton.
+-- 
+2.54.0.windows.1
+
